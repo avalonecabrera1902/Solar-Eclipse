@@ -1,9 +1,8 @@
 # Solar-Eclipse
  
  ## My first study page 
- <p>An HTML and CSS animated page to improve my performance, and have a 
- real notion about using keyframe in CSS</p>
+ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤAn HTML and CSS animated page to improve my performance, and have a</br>
+  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤreal notion about using keyframe in CSS
  
-  <p>Simple animation about the Solar Eclipse 🌕🌔🌓🌒🌑🌘🌗🌖🌕</p>
+ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤSimple animation about the Solar Eclipse 🌕🌔🌓🌒🌑🌘🌗🌖🌕
   
-   [index.html](https://avalonecabrera1902.github.io/Solar-Eclipse/)
