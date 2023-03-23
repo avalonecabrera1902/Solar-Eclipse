@@ -6,3 +6,4 @@
  
  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤSimple animation about the Solar Eclipse 🌕🌔🌓🌒🌑🌘🌗🌖🌕
   
+![screen-capture (1).webm](https://user-images.githubusercontent.com/93727886/227334262-88a26eb5-9053-43ee-96a8-652e78846166.webm)
